@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "alex.client.address.url",
+  "type": "java.lang.String",
+  "description": "A description for 'alex.client.address.url'"
+}]}
